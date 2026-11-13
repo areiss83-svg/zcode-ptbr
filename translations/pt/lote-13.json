@@ -1,0 +1,5 @@
+{
+ "zcode.error.providerBusiness.429": "Você está enviando requisições rápido demais. Tente novamente mais tarde.",
+ "zcode.initFailed": "Falha ao iniciar o agente de IA",
+ "zcode.unavailable": "Agente de IA indisponível"
+}
