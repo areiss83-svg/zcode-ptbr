@@ -1,0 +1,5 @@
+{
+ "zcode.error.providerBusiness.429": "You're sending requests too quickly. Please try again later.",
+ "zcode.initFailed": "Failed to start AI agent",
+ "zcode.unavailable": "AI agent not available"
+}

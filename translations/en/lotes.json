@@ -1,0 +1,62 @@
+{
+ "total_chaves": 7803,
+ "tamanho_lote": 600,
+ "lotes": [
+  {
+   "arquivo": "lote-00.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-01.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-02.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-03.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-04.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-05.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-06.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-07.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-08.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-09.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-10.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-11.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-12.json",
+   "chaves": 600
+  },
+  {
+   "arquivo": "lote-13.json",
+   "chaves": 3
+  }
+ ]
+}
